@@ -1,10 +1,12 @@
 
-#Website Checker
+# Website Checker
 
-##Table of contents
-- [Requirements](#requirements)
-- [Purpose of this script](#purpose-of-this-script)
-- [Installation](#installation)
+## Table of contents
+- [Website Checker](#website-checker)
+  - [Table of contents](#table-of-contents)
+  - [Requirements](#requirements)
+  - [Purpose of this script](#purpose-of-this-script)
+  - [Installation](#installation)
   
 
 ## Requirements
