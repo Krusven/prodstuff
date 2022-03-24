@@ -35,4 +35,5 @@ def toaster(title, string):
     icon_path="D:\Software Dev\prodstuff\web_icon.ico",
     duration=30)
 
+
 url_checker()
